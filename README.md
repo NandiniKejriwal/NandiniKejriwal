@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NandiniKejriwal/NandiniKejriwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Nandini Kejriwal 👨‍💻
 
-Here are some ideas to get you started:
+### Software Engineer | Full-Stack Developer | Product Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;System+Design+Enthusiast;1500%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="420" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+```yaml
+name: Nandini Kejriwal
+role: Software Engineer
+specialization:
+  - Full-Stack Development
+  - Product Engineering
+  - System Design
+  - Scalable Web Applications
+
+currently_working_on:
+  - High Performance Applications
+  - Clean Software Architecture
+  - Advanced DSA & Problem Solving
+
+tech_focus:
+  - React.js
+  - Node.js
+  - MongoDB
+  - JavaScript
