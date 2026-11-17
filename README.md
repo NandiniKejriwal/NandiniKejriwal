@@ -1,37 +1,16 @@
+
 <div align="center">
 
-# Hey, I'm Nandini Kejriwal 👨‍💻
+# Hey, I'm Nandini Kejriwal 👩‍💻
 
-### Software Engineer | Full-Stack Developer | Product Engineer
+### Aspiring Data Scientist | AI/ML Engineer | Generative AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;System+Design+Enthusiast;1500%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Science+%26+Analytics;Machine+Learning+%7C+Deep+Learning;Natural+Language+Processing+(NLP);Generative+AI+%7C+LLMs+%7C+RAG;Turning+Data+Into+Insights;Building+Intelligent+AI+Solutions" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="420" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="800" />
 
 </div>
 
 ---
-
-# 💫 About Me
-
-```yaml
-name: Nandini Kejriwal
-role: Software Engineer
-specialization:
-  - Full-Stack Development
-  - Product Engineering
-  - System Design
-  - Scalable Web Applications
-
-currently_working_on:
-  - High Performance Applications
-  - Clean Software Architecture
-  - Advanced DSA & Problem Solving
-
-tech_focus:
-  - React.js
-  - Node.js
-  - MongoDB
-  - JavaScript
